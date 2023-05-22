@@ -1,0 +1,20 @@
+# ignore all files in this dir...
+*.*
+# ... except the .gitignore...
+!.gitignore
+# ... and all sas and sql files.
+!*.sas
+!*.sql
+!*.mac
+!*.inc
+!*.pgm
+!*.hql
+!*.py
+!*.r
+!*.R
+!*.macro
+!*.code
+!*.ipynb
+!*.txt
+.Rproj.user
+.httr-oauth
